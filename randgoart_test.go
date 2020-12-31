@@ -4,6 +4,7 @@ import (
 	"encoding/hex"
 	"fmt"
 	"testing"
+
 	u "go.gridfinity.dev/leaktestfe"
 	"go.gridfinity.dev/randgoart"
 )

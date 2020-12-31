@@ -1,6 +1,6 @@
 // Package randgoart generates visual hashes
 // See https://pthree.org/2013/05/30/openssh-keys-and-the-drunken-GABishop/
-package randgoart // import "https://go.gridfinity.dev/randgoart"
+package randgoart // import "go.gridfinity.dev/randgoart"
 
 import (
 	"bytes"
