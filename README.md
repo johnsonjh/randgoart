@@ -15,7 +15,7 @@
 [![TickgitTODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/gridfinity/randgoart)](https://www.tickgit.com/browse?repo=github.com/gridfinity/randgoart)
 [![DeepSource](https://deepsource.io/gh/gridfinity/randgoart.svg/?label=active+issues)](https://deepsource.io/gh/gridfinty/randgoart/?ref=repository-badge)
 
---------------------------
+---
 
 ## Availability
 
