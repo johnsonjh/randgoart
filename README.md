@@ -1,5 +1,7 @@
 # randgoart
 
+randgoart: A Go library to generate OpenSSH-style visual hashes
+
 [![MITLicense](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gridfinity/randgoart/blob/master/LICENSE)
 [![GoVersion](https://img.shields.io/github/go-mod/go-version/gridfinity/randgoart.svg)](https://github.com/gridfinity/randgoart/blob/master/go.mod)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/gridfinity/randgoart)](https://pkg.go.dev/github.com/gridfinity/randgoart)
