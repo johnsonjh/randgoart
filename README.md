@@ -15,7 +15,8 @@ randgoart: A Go library to generate OpenSSH-style visual hashes
 [![CodeBeatadge](https://codebeat.co/badges/ff68217a-76ec-467c-8ecd-c49c4491c6ae)](https://codebeat.co/projects/github-com-gridfinity-randgoart-master)
 [![CodeclimateMaintainability](https://api.codeclimate.com/v1/badges/bbc4379b8c69ca2693e6/maintainability)](https://codeclimate.com/github/gridfinity/randgoart/maintainability)
 [![TickgitTODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/gridfinity/randgoart)](https://www.tickgit.com/browse?repo=github.com/gridfinity/randgoart)
-[![DeepSource](https://deepsource.io/gh/gridfinity/randgoart.svg/?label=active+issues)](https://deepsource.io/gh/gridfinty/randgoart/?ref=repository-badge)
+[![DeepSourceA](https://deepsource.io/gh/gridfinity/randgoart.svg/?label=active+issues)](https://deepsource.io/gh/gridfinty/randgoart/?ref=repository-badge)
+[![DeepSourceR](https://deepsource.io/gh/gridfinity/randgoart.svg/?label=resolved+issues)](https://deepsource.io/gh/gridfinty/randgoart/?ref=repository-badge)
 
 ---
 
