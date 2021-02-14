@@ -44,4 +44,3 @@ randgoart: A Go library to generate OpenSSH-style visual hashes
 ## License
 
 - [The MIT License](https://gitlab.gridfinity.com/go/randgoart/-/blob/master/LICENSE)
-
