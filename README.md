@@ -30,7 +30,6 @@ randgoart: A Go library to generate OpenSSH-style visual hashes
 ### Source Code (Development Repositories)
 
 - [Gridfinity GitLab](https://gitlab.gridfinity.com/go/randgoart)
-- [SourceHut Git](https://git.sr.ht/~trn/randgoart)
 - [GitHub](https://github.com/gridfinity/randgoart)
 
 ## Issue Tracking
@@ -45,3 +44,4 @@ randgoart: A Go library to generate OpenSSH-style visual hashes
 ## License
 
 - [The MIT License](https://gitlab.gridfinity.com/go/randgoart/-/blob/master/LICENSE)
+
