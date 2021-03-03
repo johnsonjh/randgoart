@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	u "go.gridfinity.dev/leaktestfe"
-	"go.gridfinity.dev/randgoart"
+	u "github.com/johnsonjh/leaktestfe"
+	"github.com/johnsonjh/randgoart"
 )
 
 func TestGenerate(
