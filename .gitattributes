@@ -3,4 +3,3 @@
 .github/* linguist-vendored
 *.json linguist-vendored
 *.md linguist-vendored
-* linguist-vendored
