@@ -1,6 +1,6 @@
 module github.com/johnsonjh/randgoart
 
-go 1.14
+go 1.16
 
 require (
 	github.com/johnsonjh/leaktestfe v0.0.0-20210305084125-5614f292a6aa
