@@ -1,10 +1,10 @@
 # randgoart
 
-----
+---
 
 randgoart: A Go library to generate OpenSSH-style visual hashes
 
-----
+---
 
 ## Availability
 
@@ -13,10 +13,10 @@ randgoart: A Go library to generate OpenSSH-style visual hashes
 - [SourceHut](https://sr.ht/~trn/randgoart)
 - [NotABug](https://notabug.org/trn/randgoart)
 
-----
+---
 
 ## License
 
 - The MIT License
 
-----
+---
